@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UseLessBox", "UseLessBox\UseLessBox.csproj", "{0829B6D0-2ADF-4729-AB8F-1C122E641D25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0829B6D0-2ADF-4729-AB8F-1C122E641D25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0829B6D0-2ADF-4729-AB8F-1C122E641D25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0829B6D0-2ADF-4729-AB8F-1C122E641D25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0829B6D0-2ADF-4729-AB8F-1C122E641D25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {145F1965-87E5-4CC1-8F1E-505E1F8473E7}
+	EndGlobalSection
+EndGlobal

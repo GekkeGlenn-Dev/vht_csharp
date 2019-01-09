@@ -1,0 +1,20 @@
+C:\Users\Bart Roos\Desktop\CookieClicker - Copy\CookieClicker\bin\Debug\CookieClicker.exe.config
+C:\Users\Bart Roos\Desktop\CookieClicker - Copy\CookieClicker\bin\Debug\CookieClicker.exe
+C:\Users\Bart Roos\Desktop\CookieClicker - Copy\CookieClicker\bin\Debug\CookieClicker.pdb
+C:\Users\Bart Roos\Desktop\CookieClicker - Copy\CookieClicker\obj\Debug\CookieClicker.CookieForm.resources
+C:\Users\Bart Roos\Desktop\CookieClicker - Copy\CookieClicker\obj\Debug\CookieClicker.Properties.Resources.resources
+C:\Users\Bart Roos\Desktop\CookieClicker - Copy\CookieClicker\obj\Debug\CookieClicker.csproj.GenerateResource.Cache
+C:\Users\Bart Roos\Desktop\CookieClicker - Copy\CookieClicker\obj\Debug\CookieClicker.exe
+C:\Users\Bart Roos\Desktop\CookieClicker - Copy\CookieClicker\obj\Debug\CookieClicker.pdb
+C:\Users\Bart Roos\Desktop\CookieClicker - Copy\CookieClicker\obj\Debug\CookieClicker.csprojResolveAssemblyReference.cache
+C:\Users\Bart Roos\Desktop\CookieClicker_Startpunt\CookieClicker\bin\Debug\CookieClicker.exe.config
+D:\AMO\CSHARP\Periode 2\Week 7\CookieClicker_Startpunt\CookieClicker\bin\Debug\CookieClicker.exe.config
+D:\AMO\CSHARP\Periode 2\Week 7\CookieClicker_Startpunt\CookieClicker\bin\Debug\CookieClicker.exe
+D:\AMO\CSHARP\Periode 2\Week 7\CookieClicker_Startpunt\CookieClicker\bin\Debug\CookieClicker.pdb
+D:\AMO\CSHARP\Periode 2\Week 7\CookieClicker_Startpunt\CookieClicker\obj\Debug\CookieClicker.csprojAssemblyReference.cache
+D:\AMO\CSHARP\Periode 2\Week 7\CookieClicker_Startpunt\CookieClicker\obj\Debug\CookieClicker.CookieForm.resources
+D:\AMO\CSHARP\Periode 2\Week 7\CookieClicker_Startpunt\CookieClicker\obj\Debug\CookieClicker.Properties.Resources.resources
+D:\AMO\CSHARP\Periode 2\Week 7\CookieClicker_Startpunt\CookieClicker\obj\Debug\CookieClicker.csproj.GenerateResource.cache
+D:\AMO\CSHARP\Periode 2\Week 7\CookieClicker_Startpunt\CookieClicker\obj\Debug\CookieClicker.csproj.CoreCompileInputs.cache
+D:\AMO\CSHARP\Periode 2\Week 7\CookieClicker_Startpunt\CookieClicker\obj\Debug\CookieClicker.exe
+D:\AMO\CSHARP\Periode 2\Week 7\CookieClicker_Startpunt\CookieClicker\obj\Debug\CookieClicker.pdb

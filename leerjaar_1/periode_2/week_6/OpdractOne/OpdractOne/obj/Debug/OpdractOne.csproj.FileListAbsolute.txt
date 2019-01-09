@@ -1,0 +1,10 @@
+D:\AMO\CSHARP\Periode 2\week 6\Source-Codes\OpdractOne\OpdractOne\bin\Debug\OpdractOne.exe.config
+D:\AMO\CSHARP\Periode 2\week 6\Source-Codes\OpdractOne\OpdractOne\bin\Debug\OpdractOne.exe
+D:\AMO\CSHARP\Periode 2\week 6\Source-Codes\OpdractOne\OpdractOne\bin\Debug\OpdractOne.pdb
+D:\AMO\CSHARP\Periode 2\week 6\Source-Codes\OpdractOne\OpdractOne\obj\Debug\OpdractOne.csprojAssemblyReference.cache
+D:\AMO\CSHARP\Periode 2\week 6\Source-Codes\OpdractOne\OpdractOne\obj\Debug\OpdractOne.MainForm.resources
+D:\AMO\CSHARP\Periode 2\week 6\Source-Codes\OpdractOne\OpdractOne\obj\Debug\OpdractOne.Properties.Resources.resources
+D:\AMO\CSHARP\Periode 2\week 6\Source-Codes\OpdractOne\OpdractOne\obj\Debug\OpdractOne.csproj.GenerateResource.cache
+D:\AMO\CSHARP\Periode 2\week 6\Source-Codes\OpdractOne\OpdractOne\obj\Debug\OpdractOne.csproj.CoreCompileInputs.cache
+D:\AMO\CSHARP\Periode 2\week 6\Source-Codes\OpdractOne\OpdractOne\obj\Debug\OpdractOne.exe
+D:\AMO\CSHARP\Periode 2\week 6\Source-Codes\OpdractOne\OpdractOne\obj\Debug\OpdractOne.pdb

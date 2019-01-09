@@ -1,0 +1,10 @@
+D:\AMO\CSHARP\Periode 2\week 5\FirstLetterApp\FirstLetterApp\obj\Debug\FirstLetterApp.csprojAssemblyReference.cache
+D:\AMO\CSHARP\Periode 2\week 5\FirstLetterApp\FirstLetterApp\obj\Debug\FirstLetterApp.FindFirstLetterForm.resources
+D:\AMO\CSHARP\Periode 2\week 5\FirstLetterApp\FirstLetterApp\obj\Debug\FirstLetterApp.Properties.Resources.resources
+D:\AMO\CSHARP\Periode 2\week 5\FirstLetterApp\FirstLetterApp\obj\Debug\FirstLetterApp.csproj.GenerateResource.cache
+D:\AMO\CSHARP\Periode 2\week 5\FirstLetterApp\FirstLetterApp\obj\Debug\FirstLetterApp.csproj.CoreCompileInputs.cache
+D:\AMO\CSHARP\Periode 2\week 5\FirstLetterApp\FirstLetterApp\bin\Debug\FirstLetterApp.exe.config
+D:\AMO\CSHARP\Periode 2\week 5\FirstLetterApp\FirstLetterApp\bin\Debug\FirstLetterApp.exe
+D:\AMO\CSHARP\Periode 2\week 5\FirstLetterApp\FirstLetterApp\bin\Debug\FirstLetterApp.pdb
+D:\AMO\CSHARP\Periode 2\week 5\FirstLetterApp\FirstLetterApp\obj\Debug\FirstLetterApp.exe
+D:\AMO\CSHARP\Periode 2\week 5\FirstLetterApp\FirstLetterApp\obj\Debug\FirstLetterApp.pdb

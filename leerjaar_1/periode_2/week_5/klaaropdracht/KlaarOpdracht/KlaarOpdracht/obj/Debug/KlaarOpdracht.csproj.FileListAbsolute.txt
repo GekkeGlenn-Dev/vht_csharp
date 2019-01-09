@@ -1,0 +1,10 @@
+D:\AMO\CSHARP\Periode 2\week 5\klaaropdracht\KlaarOpdracht\KlaarOpdracht\bin\Debug\KlaarOpdracht.exe.config
+D:\AMO\CSHARP\Periode 2\week 5\klaaropdracht\KlaarOpdracht\KlaarOpdracht\bin\Debug\KlaarOpdracht.exe
+D:\AMO\CSHARP\Periode 2\week 5\klaaropdracht\KlaarOpdracht\KlaarOpdracht\bin\Debug\KlaarOpdracht.pdb
+D:\AMO\CSHARP\Periode 2\week 5\klaaropdracht\KlaarOpdracht\KlaarOpdracht\obj\Debug\KlaarOpdracht.csprojAssemblyReference.cache
+D:\AMO\CSHARP\Periode 2\week 5\klaaropdracht\KlaarOpdracht\KlaarOpdracht\obj\Debug\KlaarOpdracht.Form1.resources
+D:\AMO\CSHARP\Periode 2\week 5\klaaropdracht\KlaarOpdracht\KlaarOpdracht\obj\Debug\KlaarOpdracht.Properties.Resources.resources
+D:\AMO\CSHARP\Periode 2\week 5\klaaropdracht\KlaarOpdracht\KlaarOpdracht\obj\Debug\KlaarOpdracht.csproj.GenerateResource.cache
+D:\AMO\CSHARP\Periode 2\week 5\klaaropdracht\KlaarOpdracht\KlaarOpdracht\obj\Debug\KlaarOpdracht.csproj.CoreCompileInputs.cache
+D:\AMO\CSHARP\Periode 2\week 5\klaaropdracht\KlaarOpdracht\KlaarOpdracht\obj\Debug\KlaarOpdracht.exe
+D:\AMO\CSHARP\Periode 2\week 5\klaaropdracht\KlaarOpdracht\KlaarOpdracht\obj\Debug\KlaarOpdracht.pdb

@@ -1,0 +1,10 @@
+D:\AMO\CSHARP\huiswerkles2\huiswerkles2\bin\Debug\huiswerkles2.exe.config
+D:\AMO\CSHARP\huiswerkles2\huiswerkles2\bin\Debug\huiswerkles2.exe
+D:\AMO\CSHARP\huiswerkles2\huiswerkles2\bin\Debug\huiswerkles2.pdb
+D:\AMO\CSHARP\huiswerkles2\huiswerkles2\obj\Debug\huiswerkles2.csprojAssemblyReference.cache
+D:\AMO\CSHARP\huiswerkles2\huiswerkles2\obj\Debug\huiswerkles2.Form1.resources
+D:\AMO\CSHARP\huiswerkles2\huiswerkles2\obj\Debug\huiswerkles2.Properties.Resources.resources
+D:\AMO\CSHARP\huiswerkles2\huiswerkles2\obj\Debug\huiswerkles2.csproj.GenerateResource.cache
+D:\AMO\CSHARP\huiswerkles2\huiswerkles2\obj\Debug\huiswerkles2.csproj.CoreCompileInputs.cache
+D:\AMO\CSHARP\huiswerkles2\huiswerkles2\obj\Debug\huiswerkles2.exe
+D:\AMO\CSHARP\huiswerkles2\huiswerkles2\obj\Debug\huiswerkles2.pdb

@@ -1,0 +1,11 @@
+D:\AMO\CSHARP\Periode 2\week 6\Source-Codes\OpdrachtFive\OpdrachtFive\obj\Debug\OpdrachtFive.csprojAssemblyReference.cache
+D:\AMO\CSHARP\Periode 2\week 6\Source-Codes\OpdrachtFive\OpdrachtFive\obj\Debug\OpdrachtFive.InputForm.resources
+D:\AMO\CSHARP\Periode 2\week 6\Source-Codes\OpdrachtFive\OpdrachtFive\obj\Debug\OpdrachtFive.MainForm.resources
+D:\AMO\CSHARP\Periode 2\week 6\Source-Codes\OpdrachtFive\OpdrachtFive\obj\Debug\OpdrachtFive.Properties.Resources.resources
+D:\AMO\CSHARP\Periode 2\week 6\Source-Codes\OpdrachtFive\OpdrachtFive\obj\Debug\OpdrachtFive.csproj.GenerateResource.cache
+D:\AMO\CSHARP\Periode 2\week 6\Source-Codes\OpdrachtFive\OpdrachtFive\obj\Debug\OpdrachtFive.csproj.CoreCompileInputs.cache
+D:\AMO\CSHARP\Periode 2\week 6\Source-Codes\OpdrachtFive\OpdrachtFive\bin\Debug\OpdrachtFive.exe.config
+D:\AMO\CSHARP\Periode 2\week 6\Source-Codes\OpdrachtFive\OpdrachtFive\bin\Debug\OpdrachtFive.exe
+D:\AMO\CSHARP\Periode 2\week 6\Source-Codes\OpdrachtFive\OpdrachtFive\bin\Debug\OpdrachtFive.pdb
+D:\AMO\CSHARP\Periode 2\week 6\Source-Codes\OpdrachtFive\OpdrachtFive\obj\Debug\OpdrachtFive.exe
+D:\AMO\CSHARP\Periode 2\week 6\Source-Codes\OpdrachtFive\OpdrachtFive\obj\Debug\OpdrachtFive.pdb

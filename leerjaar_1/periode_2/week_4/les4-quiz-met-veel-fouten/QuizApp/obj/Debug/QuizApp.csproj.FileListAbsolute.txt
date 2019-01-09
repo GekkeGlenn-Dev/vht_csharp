@@ -1,0 +1,10 @@
+D:\AMO\CSHARP\p2\w4\les4-quiz-met-veel-fouten\QuizApp\bin\Debug\QuizApp.exe.config
+D:\AMO\CSHARP\p2\w4\les4-quiz-met-veel-fouten\QuizApp\bin\Debug\QuizApp.exe
+D:\AMO\CSHARP\p2\w4\les4-quiz-met-veel-fouten\QuizApp\bin\Debug\QuizApp.pdb
+D:\AMO\CSHARP\p2\w4\les4-quiz-met-veel-fouten\QuizApp\obj\Debug\QuizApp.csprojAssemblyReference.cache
+D:\AMO\CSHARP\p2\w4\les4-quiz-met-veel-fouten\QuizApp\obj\Debug\QuizApp.QuizForm.resources
+D:\AMO\CSHARP\p2\w4\les4-quiz-met-veel-fouten\QuizApp\obj\Debug\QuizApp.Properties.Resources.resources
+D:\AMO\CSHARP\p2\w4\les4-quiz-met-veel-fouten\QuizApp\obj\Debug\QuizApp.csproj.GenerateResource.cache
+D:\AMO\CSHARP\p2\w4\les4-quiz-met-veel-fouten\QuizApp\obj\Debug\QuizApp.csproj.CoreCompileInputs.cache
+D:\AMO\CSHARP\p2\w4\les4-quiz-met-veel-fouten\QuizApp\obj\Debug\QuizApp.exe
+D:\AMO\CSHARP\p2\w4\les4-quiz-met-veel-fouten\QuizApp\obj\Debug\QuizApp.pdb

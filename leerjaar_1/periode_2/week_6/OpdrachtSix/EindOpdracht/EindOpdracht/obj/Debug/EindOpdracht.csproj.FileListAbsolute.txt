@@ -1,0 +1,11 @@
+D:\AMO\CSHARP\Periode 2\week 6\Source-Codes\OpdrachtSix\EindOpdracht\EindOpdracht\bin\Debug\EindOpdracht.exe.config
+D:\AMO\CSHARP\Periode 2\week 6\Source-Codes\OpdrachtSix\EindOpdracht\EindOpdracht\bin\Debug\EindOpdracht.exe
+D:\AMO\CSHARP\Periode 2\week 6\Source-Codes\OpdrachtSix\EindOpdracht\EindOpdracht\bin\Debug\EindOpdracht.pdb
+D:\AMO\CSHARP\Periode 2\week 6\Source-Codes\OpdrachtSix\EindOpdracht\EindOpdracht\obj\Debug\EindOpdracht.csprojAssemblyReference.cache
+D:\AMO\CSHARP\Periode 2\week 6\Source-Codes\OpdrachtSix\EindOpdracht\EindOpdracht\obj\Debug\EindOpdracht.MainForm.resources
+D:\AMO\CSHARP\Periode 2\week 6\Source-Codes\OpdrachtSix\EindOpdracht\EindOpdracht\obj\Debug\EindOpdracht.Properties.Resources.resources
+D:\AMO\CSHARP\Periode 2\week 6\Source-Codes\OpdrachtSix\EindOpdracht\EindOpdracht\obj\Debug\EindOpdracht.Shop.resources
+D:\AMO\CSHARP\Periode 2\week 6\Source-Codes\OpdrachtSix\EindOpdracht\EindOpdracht\obj\Debug\EindOpdracht.csproj.GenerateResource.cache
+D:\AMO\CSHARP\Periode 2\week 6\Source-Codes\OpdrachtSix\EindOpdracht\EindOpdracht\obj\Debug\EindOpdracht.csproj.CoreCompileInputs.cache
+D:\AMO\CSHARP\Periode 2\week 6\Source-Codes\OpdrachtSix\EindOpdracht\EindOpdracht\obj\Debug\EindOpdracht.exe
+D:\AMO\CSHARP\Periode 2\week 6\Source-Codes\OpdrachtSix\EindOpdracht\EindOpdracht\obj\Debug\EindOpdracht.pdb

@@ -1,0 +1,11 @@
+D:\AMO\CSHARP\Periode 2\week 6\Source-Codes\OpdractFour\OpdractFour\bin\Debug\OpdractFour.exe.config
+D:\AMO\CSHARP\Periode 2\week 6\Source-Codes\OpdractFour\OpdractFour\bin\Debug\OpdractFour.exe
+D:\AMO\CSHARP\Periode 2\week 6\Source-Codes\OpdractFour\OpdractFour\bin\Debug\OpdractFour.pdb
+D:\AMO\CSHARP\Periode 2\week 6\Source-Codes\OpdractFour\OpdractFour\obj\Debug\OpdractFour.csprojAssemblyReference.cache
+D:\AMO\CSHARP\Periode 2\week 6\Source-Codes\OpdractFour\OpdractFour\obj\Debug\OpdractFour.Form2.resources
+D:\AMO\CSHARP\Periode 2\week 6\Source-Codes\OpdractFour\OpdractFour\obj\Debug\OpdractFour.MainForm.resources
+D:\AMO\CSHARP\Periode 2\week 6\Source-Codes\OpdractFour\OpdractFour\obj\Debug\OpdractFour.Properties.Resources.resources
+D:\AMO\CSHARP\Periode 2\week 6\Source-Codes\OpdractFour\OpdractFour\obj\Debug\OpdractFour.csproj.GenerateResource.cache
+D:\AMO\CSHARP\Periode 2\week 6\Source-Codes\OpdractFour\OpdractFour\obj\Debug\OpdractFour.csproj.CoreCompileInputs.cache
+D:\AMO\CSHARP\Periode 2\week 6\Source-Codes\OpdractFour\OpdractFour\obj\Debug\OpdractFour.exe
+D:\AMO\CSHARP\Periode 2\week 6\Source-Codes\OpdractFour\OpdractFour\obj\Debug\OpdractFour.pdb

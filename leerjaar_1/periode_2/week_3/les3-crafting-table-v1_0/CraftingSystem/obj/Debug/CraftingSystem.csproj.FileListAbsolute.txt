@@ -1,0 +1,10 @@
+D:\AMO\CSHARP\p2\w3\les3-crafting-table-v1_0\CraftingSystem\bin\Debug\CraftingSystem.exe.config
+D:\AMO\CSHARP\p2\w3\les3-crafting-table-v1_0\CraftingSystem\bin\Debug\CraftingSystem.exe
+D:\AMO\CSHARP\p2\w3\les3-crafting-table-v1_0\CraftingSystem\bin\Debug\CraftingSystem.pdb
+D:\AMO\CSHARP\p2\w3\les3-crafting-table-v1_0\CraftingSystem\obj\Debug\CraftingSystem.csprojAssemblyReference.cache
+D:\AMO\CSHARP\p2\w3\les3-crafting-table-v1_0\CraftingSystem\obj\Debug\CraftingSystem.MainForm.resources
+D:\AMO\CSHARP\p2\w3\les3-crafting-table-v1_0\CraftingSystem\obj\Debug\CraftingSystem.Properties.Resources.resources
+D:\AMO\CSHARP\p2\w3\les3-crafting-table-v1_0\CraftingSystem\obj\Debug\CraftingSystem.csproj.GenerateResource.cache
+D:\AMO\CSHARP\p2\w3\les3-crafting-table-v1_0\CraftingSystem\obj\Debug\CraftingSystem.csproj.CoreCompileInputs.cache
+D:\AMO\CSHARP\p2\w3\les3-crafting-table-v1_0\CraftingSystem\obj\Debug\CraftingSystem.exe
+D:\AMO\CSHARP\p2\w3\les3-crafting-table-v1_0\CraftingSystem\obj\Debug\CraftingSystem.pdb

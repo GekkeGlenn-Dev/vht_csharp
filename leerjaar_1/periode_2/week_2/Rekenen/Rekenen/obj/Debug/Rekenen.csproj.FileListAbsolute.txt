@@ -1,0 +1,10 @@
+D:\AMO\CSHARP\les2-rekenen-v1_0\Rekenen\Rekenen\bin\Debug\Rekenen.exe.config
+D:\AMO\CSHARP\les2-rekenen-v1_0\Rekenen\Rekenen\bin\Debug\Rekenen.exe
+D:\AMO\CSHARP\les2-rekenen-v1_0\Rekenen\Rekenen\bin\Debug\Rekenen.pdb
+D:\AMO\CSHARP\les2-rekenen-v1_0\Rekenen\Rekenen\obj\Debug\Rekenen.csprojAssemblyReference.cache
+D:\AMO\CSHARP\les2-rekenen-v1_0\Rekenen\Rekenen\obj\Debug\Rekenen.MainForm.resources
+D:\AMO\CSHARP\les2-rekenen-v1_0\Rekenen\Rekenen\obj\Debug\Rekenen.Properties.Resources.resources
+D:\AMO\CSHARP\les2-rekenen-v1_0\Rekenen\Rekenen\obj\Debug\Rekenen.csproj.GenerateResource.cache
+D:\AMO\CSHARP\les2-rekenen-v1_0\Rekenen\Rekenen\obj\Debug\Rekenen.csproj.CoreCompileInputs.cache
+D:\AMO\CSHARP\les2-rekenen-v1_0\Rekenen\Rekenen\obj\Debug\Rekenen.exe
+D:\AMO\CSHARP\les2-rekenen-v1_0\Rekenen\Rekenen\obj\Debug\Rekenen.pdb

@@ -1,0 +1,10 @@
+D:\AMO\CSHARP\p2\w3\HuiswerkP2L3\HuiswerkP2L3\bin\Debug\HuiswerkP2L3.exe.config
+D:\AMO\CSHARP\p2\w3\HuiswerkP2L3\HuiswerkP2L3\bin\Debug\HuiswerkP2L3.exe
+D:\AMO\CSHARP\p2\w3\HuiswerkP2L3\HuiswerkP2L3\bin\Debug\HuiswerkP2L3.pdb
+D:\AMO\CSHARP\p2\w3\HuiswerkP2L3\HuiswerkP2L3\obj\Debug\HuiswerkP2L3.csprojAssemblyReference.cache
+D:\AMO\CSHARP\p2\w3\HuiswerkP2L3\HuiswerkP2L3\obj\Debug\HuiswerkP2L3.Properties.Resources.resources
+D:\AMO\CSHARP\p2\w3\HuiswerkP2L3\HuiswerkP2L3\obj\Debug\HuiswerkP2L3.csproj.GenerateResource.cache
+D:\AMO\CSHARP\p2\w3\HuiswerkP2L3\HuiswerkP2L3\obj\Debug\HuiswerkP2L3.csproj.CoreCompileInputs.cache
+D:\AMO\CSHARP\p2\w3\HuiswerkP2L3\HuiswerkP2L3\obj\Debug\HuiswerkP2L3.exe
+D:\AMO\CSHARP\p2\w3\HuiswerkP2L3\HuiswerkP2L3\obj\Debug\HuiswerkP2L3.pdb
+D:\AMO\CSHARP\p2\w3\HuiswerkP2L3\HuiswerkP2L3\obj\Debug\HuiswerkP2L3.QuizeForm.resources

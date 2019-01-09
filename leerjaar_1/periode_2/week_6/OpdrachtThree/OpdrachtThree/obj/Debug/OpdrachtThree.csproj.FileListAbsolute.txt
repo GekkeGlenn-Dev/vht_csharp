@@ -1,0 +1,11 @@
+D:\AMO\CSHARP\Periode 2\week 6\Source-Codes\OpdrachtThree\OpdrachtThree\bin\Debug\OpdrachtThree.exe.config
+D:\AMO\CSHARP\Periode 2\week 6\Source-Codes\OpdrachtThree\OpdrachtThree\bin\Debug\OpdrachtThree.exe
+D:\AMO\CSHARP\Periode 2\week 6\Source-Codes\OpdrachtThree\OpdrachtThree\bin\Debug\OpdrachtThree.pdb
+D:\AMO\CSHARP\Periode 2\week 6\Source-Codes\OpdrachtThree\OpdrachtThree\obj\Debug\OpdrachtThree.csprojAssemblyReference.cache
+D:\AMO\CSHARP\Periode 2\week 6\Source-Codes\OpdrachtThree\OpdrachtThree\obj\Debug\OpdrachtThree.Properties.Resources.resources
+D:\AMO\CSHARP\Periode 2\week 6\Source-Codes\OpdrachtThree\OpdrachtThree\obj\Debug\OpdrachtThree.csproj.GenerateResource.cache
+D:\AMO\CSHARP\Periode 2\week 6\Source-Codes\OpdrachtThree\OpdrachtThree\obj\Debug\OpdrachtThree.csproj.CoreCompileInputs.cache
+D:\AMO\CSHARP\Periode 2\week 6\Source-Codes\OpdrachtThree\OpdrachtThree\obj\Debug\OpdrachtThree.exe
+D:\AMO\CSHARP\Periode 2\week 6\Source-Codes\OpdrachtThree\OpdrachtThree\obj\Debug\OpdrachtThree.pdb
+D:\AMO\CSHARP\Periode 2\week 6\Source-Codes\OpdrachtThree\OpdrachtThree\obj\Debug\OpdrachtThree.MainForm.resources
+D:\AMO\CSHARP\Periode 2\week 6\Source-Codes\OpdrachtThree\OpdrachtThree\obj\Debug\OpdrachtThree.Resources.Picture.resources

@@ -1,0 +1,10 @@
+D:\AMO\CSHARP\Periode 2\week 6\Source-Codes\OpdrachtTwo\OpdrachtTwo\bin\Debug\OpdrachtTwo.exe.config
+D:\AMO\CSHARP\Periode 2\week 6\Source-Codes\OpdrachtTwo\OpdrachtTwo\bin\Debug\OpdrachtTwo.exe
+D:\AMO\CSHARP\Periode 2\week 6\Source-Codes\OpdrachtTwo\OpdrachtTwo\bin\Debug\OpdrachtTwo.pdb
+D:\AMO\CSHARP\Periode 2\week 6\Source-Codes\OpdrachtTwo\OpdrachtTwo\obj\Debug\OpdrachtTwo.csprojAssemblyReference.cache
+D:\AMO\CSHARP\Periode 2\week 6\Source-Codes\OpdrachtTwo\OpdrachtTwo\obj\Debug\OpdrachtTwo.MainForm.resources
+D:\AMO\CSHARP\Periode 2\week 6\Source-Codes\OpdrachtTwo\OpdrachtTwo\obj\Debug\OpdrachtTwo.Properties.Resources.resources
+D:\AMO\CSHARP\Periode 2\week 6\Source-Codes\OpdrachtTwo\OpdrachtTwo\obj\Debug\OpdrachtTwo.csproj.GenerateResource.cache
+D:\AMO\CSHARP\Periode 2\week 6\Source-Codes\OpdrachtTwo\OpdrachtTwo\obj\Debug\OpdrachtTwo.csproj.CoreCompileInputs.cache
+D:\AMO\CSHARP\Periode 2\week 6\Source-Codes\OpdrachtTwo\OpdrachtTwo\obj\Debug\OpdrachtTwo.exe
+D:\AMO\CSHARP\Periode 2\week 6\Source-Codes\OpdrachtTwo\OpdrachtTwo\obj\Debug\OpdrachtTwo.pdb

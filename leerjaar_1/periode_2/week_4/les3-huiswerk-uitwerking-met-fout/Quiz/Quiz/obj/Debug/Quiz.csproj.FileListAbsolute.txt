@@ -1,0 +1,10 @@
+D:\AMO\CSHARP\p2\w4\les3-huiswerk-uitwerking-met-fout\Quiz\Quiz\bin\Debug\Quiz.exe.config
+D:\AMO\CSHARP\p2\w4\les3-huiswerk-uitwerking-met-fout\Quiz\Quiz\bin\Debug\Quiz.exe
+D:\AMO\CSHARP\p2\w4\les3-huiswerk-uitwerking-met-fout\Quiz\Quiz\bin\Debug\Quiz.pdb
+D:\AMO\CSHARP\p2\w4\les3-huiswerk-uitwerking-met-fout\Quiz\Quiz\obj\Debug\Quiz.csprojAssemblyReference.cache
+D:\AMO\CSHARP\p2\w4\les3-huiswerk-uitwerking-met-fout\Quiz\Quiz\obj\Debug\Quiz.Properties.Resources.resources
+D:\AMO\CSHARP\p2\w4\les3-huiswerk-uitwerking-met-fout\Quiz\Quiz\obj\Debug\Quiz.QuizForm.resources
+D:\AMO\CSHARP\p2\w4\les3-huiswerk-uitwerking-met-fout\Quiz\Quiz\obj\Debug\Quiz.csproj.GenerateResource.cache
+D:\AMO\CSHARP\p2\w4\les3-huiswerk-uitwerking-met-fout\Quiz\Quiz\obj\Debug\Quiz.csproj.CoreCompileInputs.cache
+D:\AMO\CSHARP\p2\w4\les3-huiswerk-uitwerking-met-fout\Quiz\Quiz\obj\Debug\Quiz.exe
+D:\AMO\CSHARP\p2\w4\les3-huiswerk-uitwerking-met-fout\Quiz\Quiz\obj\Debug\Quiz.pdb

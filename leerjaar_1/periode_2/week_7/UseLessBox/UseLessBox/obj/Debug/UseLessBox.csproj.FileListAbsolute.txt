@@ -1,0 +1,10 @@
+D:\AMO\CSHARP\Periode 2\Week 7\UseLessBox\UseLessBox\bin\Debug\UseLessBox.exe.config
+D:\AMO\CSHARP\Periode 2\Week 7\UseLessBox\UseLessBox\bin\Debug\UseLessBox.exe
+D:\AMO\CSHARP\Periode 2\Week 7\UseLessBox\UseLessBox\bin\Debug\UseLessBox.pdb
+D:\AMO\CSHARP\Periode 2\Week 7\UseLessBox\UseLessBox\obj\Debug\UseLessBox.csprojAssemblyReference.cache
+D:\AMO\CSHARP\Periode 2\Week 7\UseLessBox\UseLessBox\obj\Debug\UseLessBox.MainForm.resources
+D:\AMO\CSHARP\Periode 2\Week 7\UseLessBox\UseLessBox\obj\Debug\UseLessBox.Properties.Resources.resources
+D:\AMO\CSHARP\Periode 2\Week 7\UseLessBox\UseLessBox\obj\Debug\UseLessBox.csproj.GenerateResource.cache
+D:\AMO\CSHARP\Periode 2\Week 7\UseLessBox\UseLessBox\obj\Debug\UseLessBox.csproj.CoreCompileInputs.cache
+D:\AMO\CSHARP\Periode 2\Week 7\UseLessBox\UseLessBox\obj\Debug\UseLessBox.exe
+D:\AMO\CSHARP\Periode 2\Week 7\UseLessBox\UseLessBox\obj\Debug\UseLessBox.pdb
