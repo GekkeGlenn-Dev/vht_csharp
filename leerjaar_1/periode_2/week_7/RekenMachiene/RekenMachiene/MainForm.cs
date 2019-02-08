@@ -42,7 +42,7 @@ namespace RekenMachiene
         {
             try
             {
-                resultLabel.Text = multiplay(int.Parse(numberOneTextBox.Text), 2/*int.Parse(numberOneTextBox.Text)*/).ToString();
+                resultLabel.Text = multiplay(int.Parse(numberOneTextBox.Text),int.Parse(numberOneTextBox.Text)).ToString();
                 numberOneTextBox.Text = "";
                 numberTwoTextBox.Text = "";
             }

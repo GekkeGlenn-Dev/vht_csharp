@@ -8,3 +8,13 @@ D:\AMO\CSHARP\Periode 2\Week 7\RekenMachiene\RekenMachiene\obj\Debug\RekenMachie
 D:\AMO\CSHARP\Periode 2\Week 7\RekenMachiene\RekenMachiene\obj\Debug\RekenMachiene.exe
 D:\AMO\CSHARP\Periode 2\Week 7\RekenMachiene\RekenMachiene\obj\Debug\RekenMachiene.pdb
 D:\AMO\CSHARP\Periode 2\Week 7\RekenMachiene\RekenMachiene\obj\Debug\RekenMachiene.MainForm.resources
+D:\coderen\amo\vht_csharp\leerjaar_1\periode_2\week_7\RekenMachiene\RekenMachiene\bin\Debug\RekenMachiene.exe.config
+D:\coderen\amo\vht_csharp\leerjaar_1\periode_2\week_7\RekenMachiene\RekenMachiene\bin\Debug\RekenMachiene.exe
+D:\coderen\amo\vht_csharp\leerjaar_1\periode_2\week_7\RekenMachiene\RekenMachiene\bin\Debug\RekenMachiene.pdb
+D:\coderen\amo\vht_csharp\leerjaar_1\periode_2\week_7\RekenMachiene\RekenMachiene\obj\Debug\RekenMachiene.csprojAssemblyReference.cache
+D:\coderen\amo\vht_csharp\leerjaar_1\periode_2\week_7\RekenMachiene\RekenMachiene\obj\Debug\RekenMachiene.MainForm.resources
+D:\coderen\amo\vht_csharp\leerjaar_1\periode_2\week_7\RekenMachiene\RekenMachiene\obj\Debug\RekenMachiene.Properties.Resources.resources
+D:\coderen\amo\vht_csharp\leerjaar_1\periode_2\week_7\RekenMachiene\RekenMachiene\obj\Debug\RekenMachiene.csproj.GenerateResource.cache
+D:\coderen\amo\vht_csharp\leerjaar_1\periode_2\week_7\RekenMachiene\RekenMachiene\obj\Debug\RekenMachiene.csproj.CoreCompileInputs.cache
+D:\coderen\amo\vht_csharp\leerjaar_1\periode_2\week_7\RekenMachiene\RekenMachiene\obj\Debug\RekenMachiene.exe
+D:\coderen\amo\vht_csharp\leerjaar_1\periode_2\week_7\RekenMachiene\RekenMachiene\obj\Debug\RekenMachiene.pdb
